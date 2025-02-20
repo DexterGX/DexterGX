@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Pedrosa Rocha da Gama</h1>
-<h3 align="center">A passionate full-stack developer beginning my career with my BS and MS in computer Science</h3>
+<h3 align="center">A passionate full-stack developer beginning my career with my BS and MS in Computer Science</h3>
 
 - 🔭 I’m currently working on [BOTC-Track-html](https://github.com/DexterGX/BOTC-Track-html)
 
