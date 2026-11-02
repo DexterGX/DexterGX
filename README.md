@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Pedrosa Rocha da Gama</h1>
 <h3 align="center">A passionate full-stack developer beginning my career with my BS and MS in Computer Science</h3>
 
-- 🔭 I’m currently working on [BOTC-Track-html](https://github.com/DexterGX/BOTC-Track-html)
+- 🔭 I’m currently working on [BOTCHub](https://github.com/DexterGX/botchub)
 
-- 🌱 I’m currently learning **more advance codes in C# and Python**
-
-- 👯 I’m looking to collaborate on **projects to build portifolio**
-
-- 🤝 I’m looking for help with **getting a job**
+- 🤝 I’m looking for **Jobs in the technology industry with usage of AI**
 
 - 📫 How to reach me **diego.prgama00@gmail.com**
 
